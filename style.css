@@ -1,0 +1,66 @@
+body{
+    background-color: grey;
+}
+
+.centralizando {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.div1 {
+    width: 60vw;
+    height: 700vh;
+    background-color: blue;
+    z-index: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.div2 {
+    width: 45vw;
+    height: 70vh;
+    background-color: red;
+    z-index: 2;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.div3 {
+    width: 35vw;
+    height: 55vh;
+    background-color: black;
+    z-index: 3;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.div4 {
+    width: 25vw;
+    height: 45vh;
+    background-color: green;
+    z-index: 4;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%); 
+
+    }
+
+.div5 {
+    width: 16vw;
+    height: 26vh;
+    background-color: yellow;
+    z-index: 5;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
